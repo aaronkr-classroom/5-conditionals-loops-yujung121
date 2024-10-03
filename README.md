@@ -1,2 +1,2 @@
-# 1-hello-c
-2주차 C 실습
+# 5-conditionals-loops
+5주차 C 실습
